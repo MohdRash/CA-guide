@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CA Guide",
+  "description": "A simulated examination platform for Chartered Accountant students utilizing Gemini AI to generate scenario-based questions, track time, and provide detailed performance analysis.",
+  "requestFramePermissions": []
+}
